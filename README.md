@@ -3,3 +3,5 @@ An online  voting system project deployed on Microsoft Azure blockchain for Code
 
 **Secure and Decentralized voting System**
 
+Problems faced by existing voting systems
+
